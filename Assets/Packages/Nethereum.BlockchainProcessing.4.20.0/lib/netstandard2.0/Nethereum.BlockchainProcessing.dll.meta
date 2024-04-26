@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ee063adcc43f52c458a309f3ae101887
+labels:
+- NuGetForUnity
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
+  platformData:
+  - first:
+      Any: 
+    second:
+      enabled: 1
+      settings: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
